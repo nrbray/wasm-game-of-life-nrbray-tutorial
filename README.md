@@ -7,4 +7,4 @@ cargo generate --git https://github.com/rustwasm/wasm-pack-template
 
 Completed with:  
 
-[![picture](download.png)]
+[![picture](download.png)](download.png)
